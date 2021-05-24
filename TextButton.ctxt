@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TextButton
+comment0.text=\r\n\ A\ Generic\ Button\ to\ display\ text\ that\ is\ clickable.\ Owned\ by\ a\ World,\ which\ controls\ click\r\n\ capturing.\r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ v0.1.5\r\n
+comment1.params=text
+comment1.target=TextButton(java.lang.String)
+comment1.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ at\ the\ default\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ \r\n
+comment2.params=text\ textSize
+comment2.target=TextButton(java.lang.String,\ int)
+comment2.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ and\ a\ specified\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ @param\ textSize\ \ size\ of\ text,\ as\ an\ integer\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=newWidth
+comment4.target=void\ widen(int)
+comment4.text=\r\n\ changes\ the\ width\ of\ the\ button\r\n\ \r\n\ @param\ newWidth\ the\ new\ Width\ of\ the\ button\r\n
+comment5.params=
+comment5.target=void\ checkMouse()
+comment5.text=\r\n\ checks\ if\ the\ mouse\ is\ currently\ over\ the\ button\r\n
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ getBufferedImage()
+numComments=7

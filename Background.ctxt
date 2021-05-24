@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ Starter\ code\ for\ Image\ Manipulation\ Array\ Assignment.\r\n\ \r\n\ The\ class\ Processor\ contains\ all\ of\ the\ code\ to\ actually\ perform\r\n\ transformation.\ The\ rest\ of\ the\ classes\ serve\ to\ support\ that\r\n\ capability.\ This\ World\ allows\ the\ user\ to\ choose\ transformations\r\n\ and\ open\ files.\r\n\ \r\n\ Add\ to\ it\ and\ make\ it\ your\ own\!\r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ November\ 2013\r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act()\ method\ just\ checks\ for\ mouse\ input\r\n
+comment3.params=bi
+comment3.target=void\ undo(java.awt.image.BufferedImage)
+comment4.params=bi
+comment4.target=void\ redo(java.awt.image.BufferedImage)
+comment5.params=
+comment5.target=void\ checkInputs()
+comment5.text=\r\n\ Check\ for\ user\ clicking\ on\ a\ button\r\n
+comment6.params=
+comment6.target=void\ initObjects()
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FileHandler
+comment1.params=image
+comment1.target=void\ overlayImage(ImageHolder)
+comment1.text=\r\n\ Opens\ an\ image\ and\ draws\ it\ over\ the\ current\ image\ with\ a\ chosen\ alpha\ value\r\n
+comment2.params=image
+comment2.target=void\ saveFile(ImageHolder)
+comment2.text=\r\n\ User\ chooses\ a\ directory\ to\ save\ a\ file\ to\ and\ an\ extention\ to\ save\ with\r\n
+comment3.params=image
+comment3.target=void\ customFilter(ImageHolder)
+comment3.text=\r\n\ user\ can\ choose\ rgba\ value\ and\ get\ a\ preview\ of\ the\ color\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=image
+comment5.target=void\ openFile(ImageHolder)
+comment5.text=\r\n\ Allows\ the\ user\ to\ open\ a\ new\ image\ file.\r\n
+comment6.params=filename
+comment6.target=java.lang.String\ removeExtension(java.lang.String)
+comment7.params=f
+comment7.target=java.awt.image.BufferedImage\ fileToImage(java.io.File)
+comment7.text=\r\n\ converts\ a\ file\ object\ into\ a\ bufferedimage\r\n
+numComments=8
